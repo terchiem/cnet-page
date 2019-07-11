@@ -116,6 +116,7 @@ div {
 .all-links a:hover,
 .all-links-media a:hover,
 .byline a:hover,
+.top-nav a:hover,
 header a:hover,
 footer a:hover {
   color: var(--orange) !important;
